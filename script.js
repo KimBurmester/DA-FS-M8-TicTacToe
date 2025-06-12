@@ -1,10 +1,10 @@
 let fields = [
     null,
+    'circle',
     null,
     null,
     null,
-    null,
-    null,
+    'cross',
     null,
     null,
     null,
